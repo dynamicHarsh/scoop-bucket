@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dynamicHarsh/env-pull/releases/download/v0.1.1/env-pull_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/dynamicHarsh/env-pull/releases/download/v0.1.2/env-pull_0.1.2_windows_amd64.zip",
             "bin": [
                 "env-pull.exe"
             ],
-            "hash": "3ccc167123c5468162af39d770c497282c30eaab493a2d9cd07150098708843f"
+            "hash": "77a6151d1a0aff8648509526a56c2303b2275d2aab051120eac9f84751ad17bf"
         }
     },
     "homepage": "https://github.com/dynamicHarsh/env-pull",
