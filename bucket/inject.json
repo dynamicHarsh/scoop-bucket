@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dynamicHarsh/inject/releases/download/v0.2.1/inject_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/dynamicHarsh/inject/releases/download/v0.3.0/inject_0.3.0_windows_amd64.zip",
             "bin": [
                 "inject.exe"
             ],
-            "hash": "b365cdfb2d6c8a71553edd2dc6846bc556e46956fa6228d0edbb8541600187f7"
+            "hash": "953c5426a6a272276fe86ca0fcaff448e9afc85990775bfe074e0e5b84e7af0d"
         }
     },
     "homepage": "https://github.com/dynamicHarsh/env-pull",
